@@ -4,7 +4,7 @@
 ```
 cmsenv;
 
-git clone git@github.com:vince502/ResonanceAna.git -b master
+git clone git@github.com:Legoinha/FinderAnalyzer.git -b master
 
 scram b -j8
 ```

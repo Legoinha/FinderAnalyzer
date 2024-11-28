@@ -13,6 +13,5 @@ Onia + trk + trk candidate generators and analyzers included with Onia2MuMuPat p
 The analyzers are not fully functional
 
 ```
-VertexCompositeAnalysis/VertexCompositeProducer/test/hion*.py
-
+FinderAnalyzer/VertexCompositeProducer/test/hion*.py
 ```
